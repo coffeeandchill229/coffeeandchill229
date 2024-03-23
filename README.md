@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nguyenngocdat.dev@gmail.com**
 
-- ⚡ Fun fact **you fart ones a day**
+- ⚡ Fun fact **Dragonflies suck water up their butts and shoot it out like jets when they get tired.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
