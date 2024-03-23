@@ -1,4 +1,4 @@
-[![MasterHead]([https://cdn.acodez.in/wp-content/uploads/2018/05/Banner-image-4.png](https://tintuc.hahalolo.com/wp-content/uploads/2020/08/Java-Developer-1920x960-1200x480-1.jpg))]
+[![MasterHead](https://tintuc.hahalolo.com/wp-content/uploads/2020/08/Java-Developer-1920x960-1200x480-1.jpg)]
 <h1 align="center">Hi 👋, I'm Dat</h1>
 <h3 align="center">A passionate Java backend developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*lhOax3cZATGZwEhG0uTYRA.gif">
