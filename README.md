@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenngocdat229&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenngocdat229" /> </p>
 
-- 🌱 I’m currently learning **Spring boot, Spring Security**
+- 🌱 I’m currently learning **Spring boot, Spring Security and Japanese**
 
 - 💬 Ask me about **Anything**
 
