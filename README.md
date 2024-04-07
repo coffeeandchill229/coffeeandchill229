@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQH8oBRBhHfPIA/profile-displaybackgroundimage-shrink_350_1400/0/1676447873948?e=1716422400&v=beta&t=fxDPB3FFr7SpSkxq8K-UP08ST2cFCNAw-HOqigRUKlA)
+![MasterHead](https://preview.redd.it/0w8k67nd28971.gif?width=500&auto=webp&s=f5182e498e9e0c1cc8be9dd5e86d77783c9a7897)
 <h1 align="center">Hi 👋, I'm Dat</h1>
 <h3 align="center">A passionate backend developer </h3>
 <h3 align="center">情熱的なバックエンド開発者</h3>
